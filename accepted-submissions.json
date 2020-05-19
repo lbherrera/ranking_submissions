@@ -11,9 +11,22 @@
     }
    },
    "team": "Tua m\u00e3e, aquela ursa"
+  },
+  {
+   "lastAccept": 1589882243,
+   "pos": 2,
+   "score": 500,
+   "taskStats": {
+    "test10": {
+     "points": 500,
+     "time": 1589882243
+    }
+   },
+   "team": "Testando"
   }
  ],
  "tasks": [
-  "test2"
+  "test2",
+  "test10"
  ]
 }
