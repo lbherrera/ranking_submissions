@@ -1,0 +1,19 @@
+{
+ "standings": [
+  {
+   "lastAccept": 1589855366,
+   "pos": 1,
+   "score": 500,
+   "taskStats": {
+    "test2": {
+     "points": 500,
+     "time": 1589855366
+    }
+   },
+   "team": "Tua m\u00e3e, aquela ursa"
+  }
+ ],
+ "tasks": [
+  "test2"
+ ]
+}
