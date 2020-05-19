@@ -1,28 +1,32 @@
 {
  "standings": [
   {
-   "lastAccept": 1589855366,
+   "lastAccept": 1589882551,
    "pos": 1,
-   "score": 500,
-   "taskStats": {
-    "test2": {
-     "points": 500,
-     "time": 1589855366
-    }
-   },
-   "team": "Tua m\u00e3e, aquela ursa"
-  },
-  {
-   "lastAccept": 1589882243,
-   "pos": 2,
-   "score": 500,
+   "score": 974,
    "taskStats": {
     "test10": {
      "points": 500,
      "time": 1589882243
+    },
+    "test2": {
+     "points": 474,
+     "time": 1589882551
     }
    },
    "team": "Testando"
+  },
+  {
+   "lastAccept": 1589855366,
+   "pos": 2,
+   "score": 474,
+   "taskStats": {
+    "test2": {
+     "points": 474,
+     "time": 1589855366
+    }
+   },
+   "team": "Tua m\u00e3e, aquela ursa"
   }
  ],
  "tasks": [
