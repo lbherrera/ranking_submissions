@@ -3,7 +3,7 @@
   {
    "lastAccept": 1589952463,
    "pos": 1,
-   "score": 4190,
+   "score": 4172,
    "taskStats": {
     "test": {
      "points": 435,
@@ -14,7 +14,7 @@
      "time": 1589949507
     },
     "test2": {
-     "points": 453,
+     "points": 435,
      "time": 1589949599
     },
     "test4": {
@@ -47,7 +47,7 @@
   {
    "lastAccept": 1589987498,
    "pos": 2,
-   "score": 2268,
+   "score": 2250,
    "taskStats": {
     "test": {
      "points": 435,
@@ -58,7 +58,7 @@
      "time": 1589981086
     },
     "test2": {
-     "points": 453,
+     "points": 435,
      "time": 1589987498
     },
     "test7": {
@@ -99,10 +99,10 @@
   {
    "lastAccept": 1589952361,
    "pos": 4,
-   "score": 1406,
+   "score": 1388,
    "taskStats": {
     "test2": {
-     "points": 453,
+     "points": 435,
      "time": 1589951593
     },
     "test3": {
@@ -117,9 +117,9 @@
    "team": "Ser\u00e1 que vai?"
   },
   {
-   "lastAccept": 1589989001,
+   "lastAccept": 1589989141,
    "pos": 5,
-   "score": 888,
+   "score": 1323,
    "taskStats": {
     "test": {
      "points": 435,
@@ -128,6 +128,10 @@
     "test10": {
      "points": 453,
      "time": 1589989001
+    },
+    "test2": {
+     "points": 435,
+     "time": 1589989141
     }
    },
    "team": "pedroysb"
