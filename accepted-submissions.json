@@ -3,7 +3,7 @@
   {
    "lastAccept": 1589952463,
    "pos": 1,
-   "score": 4401,
+   "score": 4375,
    "taskStats": {
     "test": {
      "points": 500,
@@ -34,7 +34,7 @@
      "time": 1589950499
     },
     "test8": {
-     "points": 500,
+     "points": 474,
      "time": 1589950514
     },
     "test9": {
@@ -65,9 +65,9 @@
    "team": "Ser\u00e1 que vai?"
   },
   {
-   "lastAccept": 1589981758,
+   "lastAccept": 1589982524,
    "pos": 3,
-   "score": 927,
+   "score": 1401,
    "taskStats": {
     "test10": {
      "points": 474,
@@ -76,6 +76,10 @@
     "test7": {
      "points": 453,
      "time": 1589981758
+    },
+    "test8": {
+     "points": 474,
+     "time": 1589982524
     }
    },
    "team": "123"
