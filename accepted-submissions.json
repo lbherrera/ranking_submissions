@@ -3,7 +3,7 @@
   {
    "lastAccept": 1589952463,
    "pos": 1,
-   "score": 4276,
+   "score": 4250,
    "taskStats": {
     "test": {
      "points": 453,
@@ -38,15 +38,39 @@
      "time": 1589950514
     },
     "test9": {
-     "points": 500,
+     "points": 474,
      "time": 1589952463
     }
    },
    "team": "Testando 123"
   },
   {
-   "lastAccept": 1589987182,
+   "lastAccept": 1589987228,
    "pos": 2,
+   "score": 1875,
+   "taskStats": {
+    "test": {
+     "points": 453,
+     "time": 1589987095
+    },
+    "test4": {
+     "points": 474,
+     "time": 1589987115
+    },
+    "test5": {
+     "points": 474,
+     "time": 1589987196
+    },
+    "test9": {
+     "points": 474,
+     "time": 1589987228
+    }
+   },
+   "team": "n0ps13d"
+  },
+  {
+   "lastAccept": 1589987182,
+   "pos": 3,
    "score": 1854,
    "taskStats": {
     "test": {
@@ -70,7 +94,7 @@
   },
   {
    "lastAccept": 1589952361,
-   "pos": 3,
+   "pos": 4,
    "score": 1427,
    "taskStats": {
     "test2": {
@@ -87,26 +111,6 @@
     }
    },
    "team": "Ser\u00e1 que vai?"
-  },
-  {
-   "lastAccept": 1589987196,
-   "pos": 4,
-   "score": 1401,
-   "taskStats": {
-    "test": {
-     "points": 453,
-     "time": 1589987095
-    },
-    "test4": {
-     "points": 474,
-     "time": 1589987115
-    },
-    "test5": {
-     "points": 474,
-     "time": 1589987196
-    }
-   },
-   "team": "n0ps13d"
   }
  ],
  "tasks": [
