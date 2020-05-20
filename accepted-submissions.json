@@ -3,7 +3,7 @@
   {
    "lastAccept": 1589952463,
    "pos": 1,
-   "score": 4172,
+   "score": 4154,
    "taskStats": {
     "test": {
      "points": 435,
@@ -30,7 +30,7 @@
      "time": 1589950351
     },
     "test7": {
-     "points": 453,
+     "points": 435,
      "time": 1589950499
     },
     "test8": {
@@ -47,7 +47,7 @@
   {
    "lastAccept": 1589987498,
    "pos": 2,
-   "score": 2250,
+   "score": 2232,
    "taskStats": {
     "test": {
      "points": 435,
@@ -62,7 +62,7 @@
      "time": 1589987498
     },
     "test7": {
-     "points": 453,
+     "points": 435,
      "time": 1589981758
     },
     "test8": {
@@ -97,29 +97,9 @@
    "team": "n0ps13d"
   },
   {
-   "lastAccept": 1589952361,
+   "lastAccept": 1589989194,
    "pos": 4,
-   "score": 1388,
-   "taskStats": {
-    "test2": {
-     "points": 435,
-     "time": 1589951593
-    },
-    "test3": {
-     "points": 500,
-     "time": 1589951688
-    },
-    "test7": {
-     "points": 453,
-     "time": 1589952361
-    }
-   },
-   "team": "Ser\u00e1 que vai?"
-  },
-  {
-   "lastAccept": 1589989141,
-   "pos": 5,
-   "score": 1323,
+   "score": 1758,
    "taskStats": {
     "test": {
      "points": 435,
@@ -132,9 +112,33 @@
     "test2": {
      "points": 435,
      "time": 1589989141
+    },
+    "test7": {
+     "points": 435,
+     "time": 1589989194
     }
    },
    "team": "pedroysb"
+  },
+  {
+   "lastAccept": 1589952361,
+   "pos": 5,
+   "score": 1370,
+   "taskStats": {
+    "test2": {
+     "points": 435,
+     "time": 1589951593
+    },
+    "test3": {
+     "points": 500,
+     "time": 1589951688
+    },
+    "test7": {
+     "points": 435,
+     "time": 1589952361
+    }
+   },
+   "team": "Ser\u00e1 que vai?"
   }
  ],
  "tasks": [
