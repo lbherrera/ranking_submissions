@@ -3,7 +3,7 @@
   {
    "lastAccept": 1589907677,
    "pos": 1,
-   "score": 4713,
+   "score": 4687,
    "taskStats": {
     "test": {
      "points": 453,
@@ -34,7 +34,7 @@
      "time": 1589897925
     },
     "test7": {
-     "points": 500,
+     "points": 474,
      "time": 1589896587
     },
     "test8": {
@@ -49,8 +49,44 @@
    "team": "Testando"
   },
   {
-   "lastAccept": 1589943248,
+   "lastAccept": 1589946116,
    "pos": 2,
+   "score": 3213,
+   "taskStats": {
+    "test": {
+     "points": 453,
+     "time": 1589937490
+    },
+    "test10": {
+     "points": 453,
+     "time": 1589941089
+    },
+    "test2": {
+     "points": 453,
+     "time": 1589941330
+    },
+    "test4": {
+     "points": 453,
+     "time": 1589942871
+    },
+    "test5": {
+     "points": 453,
+     "time": 1589943822
+    },
+    "test6": {
+     "points": 474,
+     "time": 1589943900
+    },
+    "test7": {
+     "points": 474,
+     "time": 1589946116
+    }
+   },
+   "team": "Testando 123"
+  },
+  {
+   "lastAccept": 1589943248,
+   "pos": 3,
    "score": 2739,
    "taskStats": {
     "test": {
@@ -79,38 +115,6 @@
     }
    },
    "team": "Tua m\u00e3e, aquela ursa"
-  },
-  {
-   "lastAccept": 1589943900,
-   "pos": 3,
-   "score": 2739,
-   "taskStats": {
-    "test": {
-     "points": 453,
-     "time": 1589937490
-    },
-    "test10": {
-     "points": 453,
-     "time": 1589941089
-    },
-    "test2": {
-     "points": 453,
-     "time": 1589941330
-    },
-    "test4": {
-     "points": 453,
-     "time": 1589942871
-    },
-    "test5": {
-     "points": 453,
-     "time": 1589943822
-    },
-    "test6": {
-     "points": 474,
-     "time": 1589943900
-    }
-   },
-   "team": "Testando 123"
   }
  ],
  "tasks": [
