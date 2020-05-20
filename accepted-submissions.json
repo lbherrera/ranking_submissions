@@ -3,14 +3,14 @@
   {
    "lastAccept": 1589907677,
    "pos": 1,
-   "score": 4922,
+   "score": 4896,
    "taskStats": {
     "test": {
      "points": 474,
      "time": 1589882878
     },
     "test10": {
-     "points": 500,
+     "points": 474,
      "time": 1589882243
     },
     "test2": {
@@ -49,10 +49,14 @@
    "team": "Testando"
   },
   {
-   "lastAccept": 1589889922,
+   "lastAccept": 1589939919,
    "pos": 2,
-   "score": 948,
+   "score": 1422,
    "taskStats": {
+    "test10": {
+     "points": 474,
+     "time": 1589939919
+    },
     "test2": {
      "points": 474,
      "time": 1589855366
