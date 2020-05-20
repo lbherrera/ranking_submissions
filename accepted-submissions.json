@@ -3,7 +3,7 @@
   {
    "lastAccept": 1589907677,
    "pos": 1,
-   "score": 4786,
+   "score": 4760,
    "taskStats": {
     "test": {
      "points": 453,
@@ -26,7 +26,7 @@
      "time": 1589885180
     },
     "test5": {
-     "points": 500,
+     "points": 474,
      "time": 1589885514
     },
     "test6": {
@@ -49,9 +49,9 @@
    "team": "Testando"
   },
   {
-   "lastAccept": 1589943225,
+   "lastAccept": 1589943248,
    "pos": 2,
-   "score": 2286,
+   "score": 2760,
    "taskStats": {
     "test": {
      "points": 453,
@@ -72,6 +72,10 @@
     "test4": {
      "points": 453,
      "time": 1589889922
+    },
+    "test5": {
+     "points": 474,
+     "time": 1589943248
     }
    },
    "team": "Tua m\u00e3e, aquela ursa"
