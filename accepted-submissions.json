@@ -3,7 +3,7 @@
   {
    "lastAccept": 1589952463,
    "pos": 1,
-   "score": 4250,
+   "score": 4229,
    "taskStats": {
     "test": {
      "points": 453,
@@ -14,7 +14,7 @@
      "time": 1589949507
     },
     "test2": {
-     "points": 474,
+     "points": 453,
      "time": 1589949599
     },
     "test4": {
@@ -45,8 +45,36 @@
    "team": "Testando 123"
   },
   {
-   "lastAccept": 1589987228,
+   "lastAccept": 1589987498,
    "pos": 2,
+   "score": 2307,
+   "taskStats": {
+    "test": {
+     "points": 453,
+     "time": 1589987182
+    },
+    "test10": {
+     "points": 474,
+     "time": 1589981086
+    },
+    "test2": {
+     "points": 453,
+     "time": 1589987498
+    },
+    "test7": {
+     "points": 453,
+     "time": 1589981758
+    },
+    "test8": {
+     "points": 474,
+     "time": 1589982524
+    }
+   },
+   "team": "123"
+  },
+  {
+   "lastAccept": 1589987228,
+   "pos": 3,
    "score": 1875,
    "taskStats": {
     "test": {
@@ -69,36 +97,12 @@
    "team": "n0ps13d"
   },
   {
-   "lastAccept": 1589987182,
-   "pos": 3,
-   "score": 1854,
-   "taskStats": {
-    "test": {
-     "points": 453,
-     "time": 1589987182
-    },
-    "test10": {
-     "points": 474,
-     "time": 1589981086
-    },
-    "test7": {
-     "points": 453,
-     "time": 1589981758
-    },
-    "test8": {
-     "points": 474,
-     "time": 1589982524
-    }
-   },
-   "team": "123"
-  },
-  {
    "lastAccept": 1589952361,
    "pos": 4,
-   "score": 1427,
+   "score": 1406,
    "taskStats": {
     "test2": {
-     "points": 474,
+     "points": 453,
      "time": 1589951593
     },
     "test3": {
