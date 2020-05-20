@@ -3,14 +3,14 @@
   {
    "lastAccept": 1589952463,
    "pos": 1,
-   "score": 4448,
+   "score": 4422,
    "taskStats": {
     "test": {
      "points": 500,
      "time": 1589947569
     },
     "test10": {
-     "points": 500,
+     "points": 474,
      "time": 1589949507
     },
     "test2": {
@@ -63,6 +63,18 @@
     }
    },
    "team": "Ser\u00e1 que vai?"
+  },
+  {
+   "lastAccept": 1589981086,
+   "pos": 3,
+   "score": 474,
+   "taskStats": {
+    "test10": {
+     "points": 474,
+     "time": 1589981086
+    }
+   },
+   "team": "123"
   }
  ],
  "tasks": [
