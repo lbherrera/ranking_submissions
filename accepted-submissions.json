@@ -41,13 +41,17 @@
    "team": "Testando 123"
   },
   {
-   "lastAccept": 1589951593,
+   "lastAccept": 1589951688,
    "pos": 2,
-   "score": 474,
+   "score": 974,
    "taskStats": {
     "test2": {
      "points": 474,
      "time": 1589951593
+    },
+    "test3": {
+     "points": 500,
+     "time": 1589951688
     }
    },
    "team": "Ser\u00e1 que vai?"
@@ -61,6 +65,7 @@
   "test5",
   "test6",
   "test7",
-  "test8"
+  "test8",
+  "test3"
  ]
 }
